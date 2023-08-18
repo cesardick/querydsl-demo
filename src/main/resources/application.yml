@@ -1,0 +1,7 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/querydsl3
+    username: postgres
+    password: root
+  jpa:
+    show-sql: true
